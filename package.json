@@ -1,0 +1,23 @@
+{
+  "name": "chalkproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheetahchrome13/ChalkProject.git"
+  },
+  "author": "Justin Mangan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheetahchrome13/ChalkProject/issues"
+  },
+  "homepage": "https://github.com/cheetahchrome13/ChalkProject#readme"
+}
